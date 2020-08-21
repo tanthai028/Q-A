@@ -4,7 +4,6 @@ Created a Python program that asked for name and age from user input, helping to
 Implemented error checking conditions using Python’s built in functions such as isdigit or isalpha to check for edge cases to retrieve different attributes such as name and age from the class object  
   
 ![](character.gif)
-
 # Usage
 For your convenience, here is how you could do it in CMD environment.
 
