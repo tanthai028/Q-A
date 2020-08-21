@@ -7,8 +7,8 @@ For your convenience, here is how you could do it in CMD environment.
 1. First compile: gcc character.c
 2. After compilation, to run the program, you would type the following command: a.exe
 
-# Output 
-Example console 
+# Outputs
+**Example console 1 (no error)**
 ```
 Hi, what is your name?
 > Adrian
@@ -26,3 +26,33 @@ Tan, you are an adult.
 
 So your name is Tan and you are 19 years old? (yes/no)
 ```
+
+**Example console 2 (with error)**
+```
+Hi, what is your name?
+> 1
+```
+```
+Invalid input
+
+Hi, what is your name?
+> Tan
+How old are you Tan?
+> tan
+```
+```
+Invalid input
+
+How old are you Tan?
+> 19
+Tan, you are an adult
+
+So your name is Tan and you are 19 years old? (yes/no)
+> s
+```
+```
+Invalid input
+So your name is Tan and you are 19 years old? (yes/no)
+> yes
+```
+
