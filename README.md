@@ -52,6 +52,7 @@ So your name is Tan and you are 19 years old? (yes/no)
 ```
 ```
 Invalid input
+
 So your name is Tan and you are 19 years old? (yes/no)
 > yes
 ```
